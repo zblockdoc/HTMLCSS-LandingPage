@@ -212,7 +212,7 @@ footer a:hover {
 .facebook{background-image: url('../img/facebook.svg');}
 .instagram{background-image: url('../img/instagram.svg');}
 .pinterest{background-image: url('../img/pinterest.svg');}
-.newsletter 'link-header{
+.newsletter link-header{
   font-size:12px;
   font-weight:400;
   margin-bottom:5px;
