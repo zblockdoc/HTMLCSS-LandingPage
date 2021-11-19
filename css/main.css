@@ -175,7 +175,8 @@ footer{
 footer:after {
   content:"";
   background-color: #a0a0a0;
-  width: absolute;
+  width: 75%;
+  position:absolute;
   top:0;
   bottom:0;
   left:0;
